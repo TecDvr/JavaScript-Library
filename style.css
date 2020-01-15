@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+header h1 {
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+header h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+header h4 {
+    font-size: 20px;
+}
